@@ -42,14 +42,14 @@
                     android:layout_width="100dip"
                     android:layout_height="wrap_content"
                     android:layout_alignParentLeft="true"
-                    android:text="@string/crop_save_text"
+                    android:text="@android:string/ok"
             />
             <Button
                     android:id="@+id/discard"
                     android:layout_width="100dip"
                     android:layout_height="wrap_content"
                     android:layout_alignParentRight="true"
-                    android:text="@string/crop_discard_text"
+                    android:text="@android:string/cancel"
             />
         </RelativeLayout>
     </RelativeLayout>
